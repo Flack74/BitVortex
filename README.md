@@ -1,5 +1,3 @@
-
-
 # 🌪️ **BitVortex**
 
 **BitVortex** is a **Python-based visualization tool** that generates a **dynamic candlestick chart** for Bitcoin prices over the past 30 days. It utilizes data from the **CoinGecko API** to analyze market trends, providing insights into price fluctuations. 📈💰
